@@ -13,6 +13,6 @@
     "ipblacklistRefresh": 5000,
     "ipwhitelistRefresh": 5000,
     "ssl": true,
-    "sslKeyFile":"C:/CERTS/new/privkey.pem",
-    "sslCertFile":"C:/CERTS/new/fullchain.pem"
+    "sslKeyFile":"/etc/letsencrypt/live/tekmonks.com/privkey.pem",
+    "sslCertFile":"/etc/letsencrypt/live/tekmonks.com/fullchain.pem"
 }
