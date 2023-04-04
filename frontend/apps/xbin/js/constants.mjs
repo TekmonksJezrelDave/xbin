@@ -3,7 +3,7 @@
  * License: MIT - see enclosed license.txt file.
  */
 const FRONTEND = "https://{{{hostname}}}";
-const BACKEND = "https://{{{hostname}}}:9090";
+const BACKEND = "https://{{{hostname}}}:8443";
 const APP_NAME = "xbin";
 const APP_PATH = `${FRONTEND}/apps/${APP_NAME}`;
 const API_PATH = `${BACKEND}/apps/${APP_NAME}`;

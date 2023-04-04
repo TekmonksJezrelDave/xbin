@@ -9,7 +9,7 @@
         "Access-Control-Max-Age": 86400
     },
     "host" : "::",
-    "port" : 9090,
+    "port" : 8443,
     "ipblacklistRefresh": 5000,
     "ipwhitelistRefresh": 5000,
     "ssl": true,
